@@ -12,7 +12,7 @@ Neste repositório estão reunidos todos os projetos práticos realizados por mi
 
 ## ⚡ Projetos
 Veja a seguir, a listagem com todos os projetos presentes neste repositório
-* <a href="https://github.com/Victor-Bianchi/Projetos/tree/main/Site%20Responsivo%20com%20PHPMailer">Site Responsivo com PHPMailer</a>
+
 
 ## 📚 Certificações
 Veja a seguir, todas as minhas certificações e suas respectivas escolas.
